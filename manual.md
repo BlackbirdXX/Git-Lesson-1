@@ -54,3 +54,4 @@ console.log(greeting2);
 ![тут может быть ваш котик](/images/cat1.jpg)
 
 ![так же кот может быть тут](/images/cat2.jpg)
+
