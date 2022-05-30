@@ -55,3 +55,4 @@ console.log(greeting2);
 
 ![так же кот может быть тут](/images/cat2.jpg)
 
+Коты потерялись
